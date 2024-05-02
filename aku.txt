@@ -1,0 +1,11 @@
+Topics:-
+1.Merging of two sorted arrays.
+2.Creating dataframes using different methods.
+3.Reading a textfile  and reverse the words sequence in another File
+4.Performing numpy  functions on arrays.
+5.Pandas  functions.
+6.Performing Aggregate functions using group by.
+7.Detecting the null  values.
+8.Filling the null values using different methods.
+9.creating pie charts ,There must be space between the one sector from different sectors
+10.plotting sinx  and cosx  graphs in the same rows.
